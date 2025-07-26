@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # 🎓 RayhanSch
 
 RayhanSch is a **modern, responsive, and user-friendly educational platform** for showcasing courses, events, and academic workshops.  
@@ -30,7 +30,7 @@ This project is fully optimized for performance, accessibility, and responsivene
 - [IonIcons](https://ionic.io/ionicons) – Open-source SVG icons  
 - [Vite](https://vitejs.dev/) – Next-gen frontend build tool  
 
----
+
 
 ## ✨ Features
 
@@ -42,7 +42,7 @@ This project is fully optimized for performance, accessibility, and responsivene
 - **Newsletter Subscription** – Simple opt-in form  
 - **SEO Optimized** – Structured content and preloaded assets  
 
----
+
 
 ## 📦 Getting Started
 
